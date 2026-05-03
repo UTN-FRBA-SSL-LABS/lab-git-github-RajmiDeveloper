@@ -2,7 +2,11 @@
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
+<<<<<<< HEAD
 int sumar(const int a, const int b) {
+=======
+int sumar(int a, int b) {
+>>>>>>> origin/feature/conflicto-demo
     return a + b;
 }
 
